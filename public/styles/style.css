@@ -1,0 +1,10 @@
+@import url(./normalize.css);
+@import url(./header.css);
+@import url(./home.css);
+@import url(./footer.css);
+
+:root {
+    --base-font: 'Nunito' ,sans-serif;
+    --green: #17ae4e;
+    --black: rgb(19, 19, 19);
+}
